@@ -1,2 +1,2 @@
 # fast-wmts
- fastapi wmts server base
+ fastapi wmts server
